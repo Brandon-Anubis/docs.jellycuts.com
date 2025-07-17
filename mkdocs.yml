@@ -14,6 +14,9 @@ nav:
   - Home: index.md
   - Getting Started:
       - Language Overview: getting-started/language-overview.md
+      - Writing Your First Script: getting-started/writing-first-script.md
+  - Language Guide:
+      - Basics: language-guide/basics.md
   - Libraries:
       - Jellycuts:
           - Grab Jellycut: libraries/jellycuts/grab-jellycut.md
