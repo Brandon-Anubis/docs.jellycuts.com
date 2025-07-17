@@ -17,6 +17,9 @@ nav:
       - Writing Your First Script: getting-started/writing-first-script.md
   - Language Guide:
       - Basics: language-guide/basics.md
+      - Variables: language-guide/variables.md
+      - Strings: language-guide/strings.md
+      - Metadata: language-guide/metadata.md
   - Libraries:
       - Jellycuts:
           - Grab Jellycut: libraries/jellycuts/grab-jellycut.md
